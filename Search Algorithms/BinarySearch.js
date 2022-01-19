@@ -28,5 +28,4 @@ const binarySearchRecursion = (input, start, end, key) => {
 }
 
 // binarySearch([4,2,1,5,0], 1)
-
-export { binarySearchRecursion, binarySearch }
+module.exports = binarySearch

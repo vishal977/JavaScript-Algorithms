@@ -38,3 +38,5 @@ const ternarySearch = (inputArray, key) => {
 }
 
 ternarySearch([1,3,5,7,12,56,57,89,90], 12)
+
+module.exports = ternarySearch

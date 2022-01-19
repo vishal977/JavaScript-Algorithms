@@ -38,3 +38,4 @@ const binarySearchRecursion = (input, start, end, key) => {
 }
 
 // exponentialSearch([2,130,224,278,303,378,440,556,2135], 556)
+module.exports = exponentialSearch

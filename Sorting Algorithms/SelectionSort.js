@@ -3,7 +3,6 @@
     In every iteration, the algorithm finds the smallest element in the sub-array and moves it to the beginning of it.
 */
 
-
 const selectionSort = (inputArray) => {
     let n = inputArray.length 
 
@@ -23,3 +22,5 @@ const selectionSort = (inputArray) => {
 }
 
 console.log(selectionSort([67,43,778,2,90]))
+
+module.exports = selectionSort

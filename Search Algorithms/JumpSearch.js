@@ -36,3 +36,5 @@ export const jumpSearch = (inputArray, key) => {
 
 jumpSearch([1,2,3,677,846,993, 1024, 7812, 9992], 7812) > -1 ? console.log(`Found`) : console.log(`Not found`)
 jumpSearch([1,2,3,677,846,993, 1024, 7812, 9992], 0) > -1 ? console.log(`Found`) : console.log(`Not found`)
+
+module.exports = jumpSearch

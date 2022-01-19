@@ -57,3 +57,4 @@ const fibonacciSearch = (inputArray, key) => {
 
 // fibonacciSearch([1,3,5,7,12,56,57,89,90], 1) >= 0 ? console.log(`Found`) : console.log(`Not found`)
 // fibonacciSearch([1,3,5,7,12,56,57,89,90], 2316) >= 0 ? console.log(`Found`) : console.log(`Not found`)
+module.exports = fibonacciSearch

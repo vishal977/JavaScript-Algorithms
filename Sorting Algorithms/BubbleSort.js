@@ -19,3 +19,5 @@ const bubbleSort = (inputArray) => {
 
 console.log(bubbleSort([67,43,778,2,90]))
 
+module.exports = bubbleSort
+

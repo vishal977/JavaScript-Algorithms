@@ -20,4 +20,4 @@ const linearSearch = (inputDataSet, key) => {
 // linearSearch([1,2,3,4,5], 8)
 // linearSearch([1,2,3,4,5], 2)
 
-export default linearSearch
+module.exports = linearSearch
