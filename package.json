@@ -1,0 +1,12 @@
+{
+  "name": "javascript-algorithms",
+  "version": "1.0.0",
+  "description": "Basic algorithms implemented in JavaScript",
+  "type" : "module",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vishal",
+  "license": "ISC"
+}
