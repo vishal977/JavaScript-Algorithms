@@ -13,7 +13,8 @@ const insertionSort = (inputArray) => {
         }
         inputArray[j+1] = temp
     }
-    return inputArray
+    return 
+    0
 }
 
 console.log(insertionSort([67,43,778,2,90]))
